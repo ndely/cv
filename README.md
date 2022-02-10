@@ -1,1 +1,99 @@
 # cv
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+
+
+  <title>Ŋancy's Back</title>
+</head>
+
+<body>
+  <table cellspacing="100">
+    <tr>
+      <td><img src="nancyface.jpg" alt="Nancy Dely Facebook profile picture" width="300" height="300"></td>
+      <td><h1>Ŋancy's Back</h1></center>
+
+
+      <p><em>Student of Web Development <br />
+        Department of Computer Science <br />
+        Graduating class of 2022 <br />
+        Udemy University <br />
+        Trenton, NJ <br /></em></p>
+        <p>I am a student of Web Development,
+          eager and determined to learn and
+          tranform my mind and income to an exponential
+          degree. I am currently an LPN and know that
+          I can do so much more. With the help of God,
+          coffee and my future wife, the possibilities
+          are endless.</p></td>
+    </tr>
+  </table>
+
+    <hr size="4" noshade>
+
+<h3><strong>Education</strong></h3>
+<ul>
+
+<li><a href="https://www.muhlsdk12.org/Domain/11">Muhlenberg High School- Diploma</a></li>
+
+<li><a href="https://www.hacc.edu/ProgramsandCourses/Programs/HealthCareers/Nurse-Aide.cfm">HACC - Certified Nurses Aide</a> </li>
+<li><a href="https://www.lcctc.edu/curriculums/practical-nursing/">LCCTC - Licensed Practical Nurse</a> </li>
+<li><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12287318#questions">Udemy - App Development Bootcamp</a> </li></ul>
+<h3>Hobbies</h3>
+<ol><li>Stocks</li>
+  <li>Budgeting</li>
+  <li>Reading</li>
+  <li>Pool</li>
+  <li>Cards</li>
+
+  </ol>
+<hr size="3" noshade>
+<h3>Work Experience</h3>
+<p>
+<table cellspacing="10">
+  <thead>
+    <tr>
+      <th>Dates</th>
+      <th>Work</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+  <tfoot>
+
+  </tfoot>
+  <tr>
+    <td>2017-2020</td>
+    <td>CNA - Fairlaine Gardens nursing and rehabilitation center</td>
+  </tr>
+  <tr>
+    <td>2020- Present</td>
+    <td>LPN- Stoneridge Towne Centre</td>
+  </tr>
+</table>
+</p>
+<hr size="3" noshade>
+<h3>Skills</h3>
+<table cellspacing="10">
+  <tr>
+    <td>Medication Administration &#128171 &#128171 &#128171;
+</td>
+    <td>Vital Signs &#128171 &#128171 &#128171</td>
+  </tr>
+  <tr>
+    <td>EMAR &#128171 &#128171 &#128171</td>
+    <td>Blood Glucose Monitoring &#128171 &#128171 &#128171</td>
+  </tr>
+  <tr>
+    <td>Stocks &#128171</td>
+    <td>HTML Coding &#128171 </td>
+  </tr>
+</table>
+<hr noshade>
+<a href="Contactme.html">Contact Me</a>
+</body>
+
+</html>
